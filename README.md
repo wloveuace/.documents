@@ -10,10 +10,10 @@ Here we will post all the MD files for books \
 - Artificial intelligence diffusion explained
 - Memory allocation startegies
 - GCC introduction book
+- Basics of bash scripting
 ---
 ### Upcomming: 
 - Modern C
-- Bash scripting fundementals
 ---
 ### Content updates:
 - Added Chapter 9 *Windows system programming 1* (3/4/2026)

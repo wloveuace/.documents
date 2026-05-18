@@ -12,7 +12,7 @@
 ```
 if [Expr]; then
 	do something
-elif []; then  
+elif [Expr2]; then  
 	do something
 else
 	do something

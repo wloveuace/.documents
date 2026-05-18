@@ -35,6 +35,7 @@ Here we will post all the MD files for books \
 - Memory allocation strategies 5/6 (5/3/2026)
 - Memory allocation strategies 6/6 (5/6/2026)
 - Introduction to GCC book (5/12/2026)
+- Basics of bash scripting (5/17/2026)
 ---
 # Instructions
 1. Download obsidian
